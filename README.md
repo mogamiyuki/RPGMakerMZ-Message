@@ -1,1 +1,1 @@
-# RPGMakerMZ-Message
+# RPGMakerMZ-Messages
